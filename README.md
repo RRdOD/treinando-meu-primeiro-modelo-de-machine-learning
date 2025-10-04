@@ -66,7 +66,3 @@ Aumento de lucros através de produção otimizada
 - MLflow 📊
 
 - Pandas & NumPy 📈
-
-- Cloud Computing ☁️
-
-- Docker 🐳
